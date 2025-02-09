@@ -1,73 +1,111 @@
-![Header](https://your-image-url.com)
+<div align="center">
+  
+![Header](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)
 
 # 👋 Hey there! I'm **Akshara Sharma**
-## 🧠 AI Researcher | 🚀 Machine Learning & Generative AI Expert | 🤖 LLM & RAG Enthusiast
+*Crafting intelligent solutions at the intersection of AI & Innovation* 
 
-I am an AI specialist with a strong focus on **machine learning, deep learning, and agentic AI systems**. My work spans across **real-time AI applications, predictive analytics, and intelligent automation**. I have developed high-impact AI solutions for traffic forecasting, water quality monitoring, and healthcare diagnostics.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=AI+Researcher;Machine+Learning+Expert;LLM+%26+RAG+Enthusiast;Generative+AI+Specialist)](https://git.io/typing-svg)
 
-![AI GIF](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
----
+</div>
 
-## 🚀 What I Work On:
-- 🤖 **LLMs & Agentic AI** – Expertise in AutoGen, CrewAI, Haystack Agents, and Google Gemini API.
-- 🔍 **AI for Critical Applications** – Traffic forecasting, environmental monitoring, and healthcare diagnostics.
-- 🎨 **AI-powered Content Moderation** – Offensive content detection using CLIP and Gemini API.
-- 📡 **Real-Time AI Systems** – AI-driven chatbots, IoT-enabled forecasting, and deep learning-based diagnostics.
+## 🧠 About Me
+I'm an AI specialist passionate about pushing the boundaries of what's possible with artificial intelligence. My expertise spans:
 
-![AI Workflow](https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif)
+<img src="https://user-images.githubusercontent.com/74038190/271839927-f5d2d866-d25c-4873-8d82-425d2c62fc2e.gif" width="300" align="right">
 
----
+- 🤖 **LLMs & Agentic AI Systems**
+- 🔍 **Critical AI Applications**
+- 🎨 **AI-powered Content Moderation**
+- 📡 **Real-Time AI Systems**
 
-## 🔥 Featured Projects:
+<br>
 
-### 🏙️ [RouteVision AI – AI-Powered Traffic Monitoring](https://github.com/your-repo)
-🔹 Developed an AI-driven system for real-time traffic congestion monitoring, forecasting, and optimization.
+## 🚀 Featured Projects
 
-### 🌊 [AI-Enabled Ganga River Water Quality Forecasting](https://github.com/your-repo)
-🔹 Designed an AI-powered DSS integrating IoT sensor data, SARIMAX models, and satellite imagery to predict water quality with 97.86% accuracy.
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="200">
+</div>
 
-### 🏥 [Advanced Cataract and Conjunctivitis Detection](https://github.com/your-repo)
-🔹 Built an AI-driven diagnostic system utilizing meta-learning techniques, achieving 98.65% accuracy in cataract detection and 97.32% in conjunctivitis cases.
+### 🏙️ RouteVision AI
+> AI-driven system for real-time traffic monitoring, leveraging computer vision and predictive analytics
+- 🔹 Real-time congestion detection
+- 🔹 Predictive traffic patterns
+- 🔹 Route optimization algorithms
 
----
+### 🌊 Ganga River Quality Forecasting
+> Cutting-edge environmental monitoring system with 97.86% accuracy
+- 🔹 IoT sensor integration
+- 🔹 SARIMAX modeling
+- 🔹 Satellite imagery analysis
 
-## ⚙️ Tech Stack:
+### 🏥 Advanced Eye Disease Detection
+> AI-powered diagnostic system with exceptional accuracy
+- 🔹 98.65% accuracy in cataract detection
+- 🔹 97.32% accuracy for conjunctivitis
+- 🔹 Meta-learning implementation
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="400">
+</div>
+
+## ⚡ Tech Arsenal
+
+<div align="center">
+
+### Core Technologies
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Google Gemini API](https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+
+### AI/ML Stack
 ![AutoGen](https://img.shields.io/badge/AutoGen-Informational?style=for-the-badge&logo=ai&logoColor=white)
 ![CrewAI](https://img.shields.io/badge/CrewAI-Informational?style=for-the-badge&logo=ai&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+
+### Development Tools
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
----
+</div>
 
-## 📊 GitHub Stats:
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=AksharaaSharma&show_icons=true&theme=radical)
+## 📊 GitHub Analytics
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AksharaaSharma&layout=compact&theme=radical)
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AksharaaSharma&show_icons=true&theme=tokyonight)
 
-![Code GIF](https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AksharaaSharma&layout=compact&theme=tokyonight)
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="400">
 
-## 📜 Publications & Achievements:
-- 📄 **AI-Driven Decision Support System for Real-Time Ganga River Water Quality Monitoring** – Presented at ICUMT 2024.
-- 🏆 **Smart India Hackathon 2024 Grand Finalist** – Recognized for innovative AI-driven environmental solutions.
-- 🎓 **Amity Merit Scholarship Recipient (2023 - 2024)** – Awarded for outstanding academic and research performance.
+</div>
 
----
+## 🏆 Achievements
 
-## 🔗 Connect with Me:
+<img src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" width="300" align="right">
+
+- 📄 Published research on **AI-Driven Decision Support System** at ICUMT 2024
+- 🏆 **Smart India Hackathon 2024** Grand Finalist
+- 🎓 **Amity Merit Scholarship** Recipient (2023-2024)
+
+## 🤝 Let's Connect!
+
+<div align="center">
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshara-sharma-a6b4bb272/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AksharaaSharma)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akshara.sharma.contact@gmail.com)
 
+<img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="300">
+
 ---
 
-⭐️ **Explore my repositories and feel free to reach out for collaboration!** 🚀
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="500">
+
+### Thanks for visiting! Feel free to explore my repositories and reach out for collaboration! 🚀
+
+</div>
