@@ -1,30 +1,30 @@
 ![Header](https://your-image-url.com)
 
-# 👋 Hey there! I'm **[Your Name]**
-## 🧠 AI Innovator | 🚀 Neurodivergent Advocate | 🤖 LLM & RAG Enthusiast
+# 👋 Hey there! I'm **Akshara Sharma**
+## 🧠 AI Researcher | 🚀 Machine Learning & Generative AI Expert | 🤖 LLM & RAG Enthusiast
 
-I'm passionate about leveraging AI to create accessible, real-world solutions for neurodivergent individuals. I specialize in **Large Language Models (LLMs)**, **Retrieval-Augmented Generation (RAG)**, and **agentic AI**. Currently, I'm building **AI-driven workplace accessibility tools** and **cognitive load balancing systems**.
+I am an AI specialist with a strong focus on **machine learning, deep learning, and agentic AI systems**. My work spans across **real-time AI applications, predictive analytics, and intelligent automation**. I have developed high-impact AI solutions for traffic forecasting, water quality monitoring, and healthcare diagnostics.
 
 ---
 
 ## 🚀 What I Work On:
-- 🤖 **AI & LLMs** – Building intelligent agents using RAG and Google Gemini API.
-- 🧠 **Neurodivergent Support AI** – Creating assistive AI tools for cognitive accessibility.
-- 🎨 **AI-powered Content Moderation** – Detecting offensive doodles with CLIP and Gemini.
-- 📡 **Real-Time AI Systems** – Implementing AI-powered YouTube education chatbots.
+- 🤖 **LLMs & Agentic AI** – Expertise in AutoGen, CrewAI, Haystack Agents, and Google Gemini API.
+- 🔍 **AI for Critical Applications** – Traffic forecasting, environmental monitoring, and healthcare diagnostics.
+- 🎨 **AI-powered Content Moderation** – Offensive content detection using CLIP and Gemini API.
+- 📡 **Real-Time AI Systems** – AI-driven chatbots, IoT-enabled forecasting, and deep learning-based diagnostics.
 
 ---
 
 ## 🔥 Featured Projects:
 
-### 🧩 [Neurodivergent AI Workplace Support](https://github.com/your-repo)
-🔹 A digital advocate for workplace accessibility using AI-powered RAG and Google technologies.
+### 🏙️ [RouteVision AI – AI-Powered Traffic Monitoring](https://github.com/your-repo)
+🔹 Developed an AI-driven system for real-time traffic congestion monitoring, forecasting, and optimization.
 
-### 🎧 [AI YouTube Chatbot for Neurodivergent Learners](https://github.com/your-repo)
-🔹 A Streamlit-based chatbot that transcribes and structures YouTube content in real time.
+### 🌊 [AI-Enabled Ganga River Water Quality Forecasting](https://github.com/your-repo)
+🔹 Designed an AI-powered DSS integrating IoT sensor data, SARIMAX models, and satellite imagery to predict water quality with 97.86% accuracy.
 
-### 🎨 [AI-Powered Doodle Moderation](https://github.com/your-repo)
-🔹 A CLIP & Gemini-powered system that detects offensive sketches in real-time.
+### 🏥 [Advanced Cataract and Conjunctivitis Detection](https://github.com/your-repo)
+🔹 Built an AI-driven diagnostic system utilizing meta-learning techniques, achieving 98.65% accuracy in cataract detection and 97.32% in conjunctivitis cases.
 
 ---
 
@@ -33,37 +33,30 @@ I'm passionate about leveraging AI to create accessible, real-world solutions fo
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Google Gemini API](https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![LLMs](https://img.shields.io/badge/LLMs-Informational?style=for-the-badge&logo=ai&logoColor=white)
+![AutoGen](https://img.shields.io/badge/AutoGen-Informational?style=for-the-badge&logo=ai&logoColor=white)
+![CrewAI](https://img.shields.io/badge/CrewAI-Informational?style=for-the-badge&logo=ai&logoColor=white)
 
 ---
 
 ## 📊 GitHub Stats:
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=AksharaaSharma&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AksharaaSharma&layout=compact&theme=radical)
+
+---
+
+## 📜 Publications & Achievements:
+- 📄 **AI-Driven Decision Support System for Real-Time Ganga River Water Quality Monitoring** – Presented at ICUMT 2024.
+- 🏆 **Smart India Hackathon 2024 Grand Finalist** – Recognized for innovative AI-driven environmental solutions.
+- 🎓 **Amity Merit Scholarship Recipient (2023 - 2024)** – Awarded for outstanding academic and research performance.
 
 ---
 
 ## 🔗 Connect with Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-profile)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-username)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshara-sharma-a6b4bb272/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AksharaaSharma)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akshara.sharma.contact@gmail.com)
 
 ---
 
-⭐️ **Feel free to explore my repositories and reach out if you’d like to collaborate!** 🚀
-
-<!--
-**AksharaaSharma/AksharaaSharma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⭐️ **Explore my repositories and feel free to reach out for collaboration!** 🚀
