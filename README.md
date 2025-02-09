@@ -5,6 +5,8 @@
 
 I am an AI specialist with a strong focus on **machine learning, deep learning, and agentic AI systems**. My work spans across **real-time AI applications, predictive analytics, and intelligent automation**. I have developed high-impact AI solutions for traffic forecasting, water quality monitoring, and healthcare diagnostics.
 
+![AI GIF](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
+
 ---
 
 ## 🚀 What I Work On:
@@ -12,6 +14,8 @@ I am an AI specialist with a strong focus on **machine learning, deep learning, 
 - 🔍 **AI for Critical Applications** – Traffic forecasting, environmental monitoring, and healthcare diagnostics.
 - 🎨 **AI-powered Content Moderation** – Offensive content detection using CLIP and Gemini API.
 - 📡 **Real-Time AI Systems** – AI-driven chatbots, IoT-enabled forecasting, and deep learning-based diagnostics.
+
+![AI Workflow](https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif)
 
 ---
 
@@ -35,6 +39,11 @@ I am an AI specialist with a strong focus on **machine learning, deep learning, 
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![AutoGen](https://img.shields.io/badge/AutoGen-Informational?style=for-the-badge&logo=ai&logoColor=white)
 ![CrewAI](https://img.shields.io/badge/CrewAI-Informational?style=for-the-badge&logo=ai&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
 
@@ -42,6 +51,8 @@ I am an AI specialist with a strong focus on **machine learning, deep learning, 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=AksharaaSharma&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AksharaaSharma&layout=compact&theme=radical)
+
+![Code GIF](https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif)
 
 ---
 
