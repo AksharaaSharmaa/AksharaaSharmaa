@@ -124,8 +124,6 @@ Computer Science Engineering student at Amity University specializing in Data Sc
 
 <img src="https://user-images.githubusercontent.com/74038190/216655947-af76ecbe-08ba-46e7-8382-b5b68ae08c51.gif" width="300">
 
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
-
 </div>
 
 ---
