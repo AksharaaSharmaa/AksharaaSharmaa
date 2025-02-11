@@ -17,9 +17,9 @@
 Tech enthusiast turning coffee into code and dreams into algorithms. Currently brewing innovation at Amity University with a spicy CGPA of 8.9/10.
 
 - 🎓 Learning to adult at Amity University (2022-2026)
-- 💼 Ex-Magic Maker at Thales and DRDO
+- 💼 Ex-Intern at Thales and DRDO
 - 🔬 Published my brain stuff at ICUMT 2024
-- 🏆 Crushed it at Smart India Hackathon 2024
+- 🏆 Finalist at Smart India Hackathon 2024
 - 🎯 Making Software Engineering Club look good
 - 🤖 The AI whisperer at Amity AI Club
 
