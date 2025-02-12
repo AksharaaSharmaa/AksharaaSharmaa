@@ -1,11 +1,14 @@
 <div align="center">
 
+<img src="https://user-images.githubusercontent.com/74038190/216656944-f8c1b44e-493b-487f-87be-6cfe6a1a3374.gif" width="200">
+
 # Akshara Sharma
 ### Software Developer | AI Enthusiast | Data Scientist
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=AI+%26+Machine+Learning+Developer;Full+Stack+Engineer;Data+Science+Specialist)](https://git.io/typing-svg)
 
 </div>
+
 
 ## 👋 About Me
 
@@ -17,6 +20,11 @@ Computer Science Engineering student at Amity University specializing in Data Sc
 - 🏆 Smart India Hackathon 2024 Finalist
 - 🌟 Active member of Software Engineering Club and AI Club
 
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/216656923-f3c316f4-33e9-45fc-9502-837a8874e8ed.gif" width="200">
+</div>
+
+
 
 ## 🚀 Professional Experience
 
@@ -26,10 +34,12 @@ Computer Science Engineering student at Amity University specializing in Data Sc
 - Implemented CLIP model and Gemini API for high-precision detection
 - Created real-time sketch analysis system with advanced GUI
 
+
 ### DRDO (May 2024 - July 2024)
 - Led AI traffic forecasting system development (98.35% accuracy)
 - Optimized defence networks reducing energy consumption by 40%
 - Processed 50,000+ data points for strategic network management
+
 
 
 ## 💡 Notable Projects
@@ -39,15 +49,18 @@ Computer Science Engineering student at Amity University specializing in Data Sc
 - Predictive analytics for Delhi's busiest routes
 - Advanced traffic signal optimization
 
+
 ### Ganga River Quality Forecasting
 - Achieved 97.86% forecasting accuracy
 - Processed 5,000+ data points from multiple sources
 - Impacted 15M+ stakeholders with actionable insights
 
+
 ### Advanced Eye Disease Detection
 - 98.65% accuracy in cataract detection
 - 97.32% success rate for conjunctivitis identification
 - Reduced processing requirements by 75%
+
 
 
 ## 🛠 Technical Arsenal
@@ -63,11 +76,13 @@ Computer Science Engineering student at Amity University specializing in Data Sc
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
+
 ### Frontend Development
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Material-UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
+
 
 ### AI/ML Stack
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -77,12 +92,14 @@ Computer Science Engineering student at Amity University specializing in Data Sc
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
+
 ### Development Tools & DevOps
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
 
 ### Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -91,6 +108,7 @@ Computer Science Engineering student at Amity University specializing in Data Sc
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 </div>
+
 
 
 ## 📊 GitHub Analytics
@@ -102,6 +120,7 @@ Computer Science Engineering student at Amity University specializing in Data Sc
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AksharaaSharma&layout=compact&theme=tokyonight)
 
 </div>
+
 
 
 ## 🤝 Connect With Me
