@@ -1,16 +1,13 @@
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e.gif" width="300">
-
 # Akshara Sharma
 ### Software Developer | AI Enthusiast | Data Scientist
 
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=AI+%26+Machine+Learning+Developer;Full+Stack+Engineer;Data+Science+Specialist)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=AI+%26+Machine+Learning+Developer;Full+Stack+Engineer;Data+Science+Specialist)](https://git.io/typing-svg)
 
 </div>
 
 ## 👋 About Me
-<img src="https://user-images.githubusercontent.com/74038190/216656967-625b2a52-e638-4c21-a8ae-180560386f96.gif" width="400" align="right">
 
 Computer Science Engineering student at Amity University specializing in Data Science, with a proven track record in AI development and research. Currently maintaining an impressive CGPA of 8.9/10.
 
@@ -20,12 +17,10 @@ Computer Science Engineering student at Amity University specializing in Data Sc
 - 🏆 Smart India Hackathon 2024 Finalist
 - 🌟 Active member of Software Engineering Club and AI Club
 
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 
 ## 🚀 Professional Experience
 
 ### Thales (Aug 2024 - Nov 2024)
-<img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="200" align="right">
 
 - Developed an AI system for content moderation achieving 97.67% accuracy
 - Implemented CLIP model and Gemini API for high-precision detection
@@ -36,18 +31,15 @@ Computer Science Engineering student at Amity University specializing in Data Sc
 - Optimized defence networks reducing energy consumption by 40%
 - Processed 50,000+ data points for strategic network management
 
+
 ## 💡 Notable Projects
 
 ### RouteVision AI
-<img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="200" align="right">
-
 - Real-time traffic congestion monitoring system
 - Predictive analytics for Delhi's busiest routes
 - Advanced traffic signal optimization
 
 ### Ganga River Quality Forecasting
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="200" align="right">
-
 - Achieved 97.86% forecasting accuracy
 - Processed 5,000+ data points from multiple sources
 - Impacted 15M+ stakeholders with actionable insights
@@ -57,11 +49,10 @@ Computer Science Engineering student at Amity University specializing in Data Sc
 - 97.32% success rate for conjunctivitis identification
 - Reduced processing requirements by 75%
 
+
 ## 🛠 Technical Arsenal
 
 <div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/169588463-275a36ef-9207-4f76-81a1-1297839b3c06.gif" width="150">
 
 ### Languages & Frameworks
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -101,6 +92,7 @@ Computer Science Engineering student at Amity University specializing in Data Sc
 
 </div>
 
+
 ## 📊 GitHub Analytics
 
 <div align="center">
@@ -109,9 +101,8 @@ Computer Science Engineering student at Amity University specializing in Data Sc
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AksharaaSharma&layout=compact&theme=tokyonight)
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="400">
-
 </div>
+
 
 ## 🤝 Connect With Me
 
@@ -121,8 +112,6 @@ Computer Science Engineering student at Amity University specializing in Data Sc
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AksharaaSharma)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akshara.sharma.contact@gmail.com)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/AksharaaSharma)
-
-<img src="https://user-images.githubusercontent.com/74038190/216655947-af76ecbe-08ba-46e7-8382-b5b68ae08c51.gif" width="300">
 
 </div>
 
