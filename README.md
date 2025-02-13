@@ -42,24 +42,7 @@ Computer Science Engineering student at Amity University specializing in Data Sc
 
 
 
-## 💡 Notable Projects
 
-### RouteVision AI
-- Real-time traffic congestion monitoring system
-- Predictive analytics for Delhi's busiest routes
-- Advanced traffic signal optimization
-
-
-### Ganga River Quality Forecasting
-- Achieved 97.86% forecasting accuracy
-- Processed 5,000+ data points from multiple sources
-- Impacted 15M+ stakeholders with actionable insights
-
-
-### Advanced Eye Disease Detection
-- 98.65% accuracy in cataract detection
-- 97.32% success rate for conjunctivitis identification
-- Reduced processing requirements by 75%
 
 
 
