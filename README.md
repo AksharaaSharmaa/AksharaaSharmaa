@@ -9,12 +9,6 @@
 <!-- Dynamic Text -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=6C63FF&center=true&vCenter=true&width=1000&height=100&lines=AI+%26+Machine+Learning+Developer;Full+Stack+Engineer;Data+Science+Specialist;Research+Enthusiast)](https://git.io/typing-svg)
 
-<!-- Social Media Badges -->
-<a href="https://www.linkedin.com/in/akshara-sharma-a6b4bb272/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="https://github.com/AksharaaSharma"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
-<a href="mailto:akshara.sharma.contact@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="https://twitter.com/AksharaaSharma"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
-
 <!-- Profile Views -->
 <img src="https://komarev.com/ghpvc/?username=AksharaaSharma&style=for-the-badge&color=blueviolet" alt="Profile Views">
 
