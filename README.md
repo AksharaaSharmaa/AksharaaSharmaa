@@ -116,7 +116,6 @@ Computer Science Engineering student at **Amity University** specializing in Dat
   <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AksharaaSharma&layout=compact&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117">
 </p>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AksharaaSharma&theme=tokyo-night&hide_border=true" width="100%">
 
 </div>
 
