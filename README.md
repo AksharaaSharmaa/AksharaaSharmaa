@@ -105,13 +105,9 @@ Computer Science Engineering student at **Amity University** specializing in Dat
 ## 📊 GitHub Statistics
 <div align="center">
 
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=AksharaaSharma&theme=tokyonight&margin-w=15&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
-
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AksharaaSharma&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AksharaaSharma&layout=compact&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/anuraghazra/github-readme-stats)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AksharaaSharma&theme=tokyonight&hide_border=true&background=0D1117)](https://git.io/streak-stats)
 
 </div>
 
