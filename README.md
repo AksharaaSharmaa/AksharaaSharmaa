@@ -106,15 +106,16 @@ Computer Science Engineering student at **Amity University** specializing in Dat
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
 ## 📊 GitHub Statistics
-
 <div align="center">
-  
-<img src="https://github-profile-trophy.vercel.app/?username=AksharaaSharma&theme=tokyonight&row=1&column=6&margin-w=15" width="100%">
 
-<p align="center">
-  <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api?username=AksharaaSharma&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117">
-  <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AksharaaSharma&layout=compact&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117">
-</p>
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=AksharaaSharma&theme=tokyonight&row=1&column=6&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AksharaaSharma&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AksharaaSharma&layout=compact&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AksharaaSharma&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+</div>
 
 
 </div>
