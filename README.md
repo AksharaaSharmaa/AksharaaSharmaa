@@ -114,7 +114,7 @@ Computer Science Engineering student at **Amity University** specializing in Dat
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AksharaaSharma&layout=compact&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AksharaaSharma&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak][![GitHub Streak](https://streak-stats.demolab.com/?user=AksharaaSharma)](https://git.io/streak-stats)
 </div>
 
 
