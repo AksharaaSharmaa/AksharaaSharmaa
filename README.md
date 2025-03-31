@@ -1,5 +1,5 @@
 <div align="center">
-  
+
 <!-- Animated Header Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Akshara%20Sharma&fontSize=90&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20|%20Full%20Stack%20Developer%20|%20Data%20Scientist&descAlignY=55&descAlign=50" width="100%">
 
