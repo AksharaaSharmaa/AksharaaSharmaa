@@ -1,35 +1,4 @@
 <div align="center">
-  <a href="https://github.com/AksharaaSharma/AksharaaSharma/blob/main/README.md">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header" width="100%"/>
-  </a>
-</div>
-Animated Wave
-<div align="center">
-  <a href="https://github.com/AksharaaSharma/AksharaaSharma/blob/main/README.md">
-    <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=80&section=footer" width="100%"/>
-  </a>
-</div>
-Simple Line with Text
-<div align="center">
-  <a href="https://github.com/AksharaaSharma/AksharaaSharma/blob/main/README.md">
-    <img src="https://capsule-render.vercel.app/api?type=rect&color=0:EEFF00,100:a82da8&height=4" width="100%"/>
-    <h3>Your Section Title</h3>
-    <img src="https://capsule-render.vercel.app/api?type=rect&color=0:a82da8,100:EEFF00&height=4" width="100%"/>
-  </a>
-</div>
-Shark Fin Divider
-<div align="center">
-  <a href="https://github.com/AksharaaSharma/AksharaaSharma/blob/main/README.md">
-    <img src="https://capsule-render.vercel.app/api?type=shark&color=30:0096c7,100:023e8a&height=120" width="100%"/>
-  </a>
-</div>
-Custom Emoji Divider
-<div align="center">
-  <a href="https://github.com/AksharaaSharma/AksharaaSharma/blob/main/README.md">
-    <p>⭐ ⭐ ⭐ ⭐ ⭐ ⭐ ⭐ ⭐ ⭐ ⭐ ⭐ ⭐ ⭐ ⭐ ⭐ ⭐ ⭐ ⭐ ⭐ ⭐ ⭐ ⭐ ⭐</p>
-  </a>
-</div>
-<div align="center">
   
 <!-- Animated Header Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Akshara%20Sharma&fontSize=90&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20|%20Full%20Stack%20Developer%20|%20Data%20Scientist&descAlignY=55&descAlign=50" width="100%">
@@ -124,4 +93,10 @@ Computer Science Engineering student at **Amity University** specializing in Dat
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AksharaaSharma)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akshara.sharma.contact@gmail.com)
 
+</div>
+
+<div align="center">
+  <a href="https://github.com/AksharaaSharma/AksharaaSharma/blob/main/README.md">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header" width="100%"/>
+  </a>
 </div>
