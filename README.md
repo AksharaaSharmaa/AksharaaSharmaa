@@ -86,44 +86,11 @@ Computer Science Engineering student at **Amity University** specializing in Dat
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
-## 🏆 Projects & Achievements
-
-<div align="center">
-
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| **AI Content Moderator** | Developed an ML system to detect and filter harmful content with 97% accuracy | Python, TensorFlow, CLIP, Gemini API |
-| **Traffic Prediction System** | Created an AI-based system for predicting traffic patterns | Python, PyTorch, Pandas, Scikit-learn |
-| **Medical Diagnosis Assistant** | Built an AI tool to assist in preliminary medical diagnoses | TensorFlow, React, NextJS |
-| **Gesture-Controlled Interface** | Created a computer vision system enabling gesture control of devices | OpenCV, Python, MediaPipe |
-| **Quantum ML Research** | Research on applying quantum computing principles to machine learning | Qiskit, Python, TensorFlow Quantum |
-
-</div>
-
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
-
-## 🎓 Education & Certifications
-
-- 🎓 **B.Tech in Computer Science & Engineering**
-  - Amity University (2022-2026)
-  - CGPA: 8.9/10
-
-- 📜 **Certifications**
-  - TensorFlow Developer Certification
-  - AWS Machine Learning Specialty
-  - Deep Learning Specialization (Coursera)
-  - Advanced Data Science with IBM (Coursera)
-
-<!-- Animated Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer" width="100%">
-
 <div align="center">
 <h3>💬 Let's connect and build something amazing together!</h3>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshara-sharma-a6b4bb272/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AksharaaSharma)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akshara.sharma.contact@gmail.com)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/AksharaaSharma)
 
 </div>
