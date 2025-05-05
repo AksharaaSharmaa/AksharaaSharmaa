@@ -3,9 +3,6 @@
 <!-- Animated Header Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Akshara%20Sharma&fontSize=90&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20|%20Full%20Stack%20Developer%20|%20Data%20Scientist&descAlignY=55&descAlign=50" width="100%">
 
-<!-- Tech Animation -->
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
-
 <!-- Dynamic Text -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=6C63FF&center=true&vCenter=true&width=1000&height=100&lines=AI+%26+Machine+Learning+Developer;Full+Stack+Engineer;Data+Science+Specialist;Research+Enthusiast)](https://git.io/typing-svg)
 
@@ -13,9 +10,6 @@
 <img src="https://komarev.com/ghpvc/?username=AksharaaSharma&style=for-the-badge&color=blueviolet" alt="Profile Views">
 
 </div>
-
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
 ## 🚀 About Me
 
